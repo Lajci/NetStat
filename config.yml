@@ -77,14 +77,9 @@ params:
   # https://github.com/mistermantas/cstate/wiki/Customization
   systems:
     -
-      name: Gateway
-    -
-      name: API
-      description: The guts of the application.
-    -
-      name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
-
+      name: Teamspeak
+      description: Teamspeak server lajci.eu
+    
   # What header design should we use?
   #
   # Default: true
